@@ -1,1 +1,0 @@
-# open-elo Lara - Login And Register Architecture
