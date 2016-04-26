@@ -1,2 +1,4 @@
 .idea
 backend/lara/target
+frontend/lara-ui/node_modules
+frontend/lara-ui/typings
